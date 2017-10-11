@@ -21,7 +21,7 @@ different outcomes.
 
 ### Installation
 
-1. Clone the repo `git clone git@`
+1. Clone the repo `git clone git@github.com:nkanish2002/imagenet.git`
 2. Install the requirements `pip install -r requirements.txt`
 
 ### Team Members
