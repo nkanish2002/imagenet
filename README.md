@@ -33,3 +33,7 @@ different outcomes.
 
 1. Tensorflow.org
 2. Wikipedia.org
+
+### Webpage
+
+I have my own webpage at https://trixster.xyz
