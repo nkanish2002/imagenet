@@ -1,4 +1,4 @@
-## IMAGENET
+## IMAGENET EC 601 Homeword 2
 
 Imagenet is program to identify objects in an image(jpeg or png). 
 It uses the softmax tensor in the tensorflow library to analyse 
